@@ -1,8 +1,7 @@
-## Olá eu sou Felipe Oliveira, estudante de programação e tecnologia!
+## Olá eu sou Felipe Oliveira, graduando em Tecnologia da Informação!
 <div>
 <a href="https://github.com/JFOM-FelipeOliveira">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFOM-FelipeOliveira&layout=compact&langs_count=7&theme=dark"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=JFOM-FelipeOliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JFOM-FelipeOliveira&theme=github-dark&hide_border=true&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
 </div>
 
 ### Contatos:
